@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Leo
+- 👀 I am interested in proxmox, home automation, PEHA, raspi, arduino, ESP, 3D print
